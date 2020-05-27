@@ -1,0 +1,46 @@
+Assignment-`1 Note:
+
+HTML- Hyper Text Markup Language.
+HTML Templete :
+
+	<!DOCTYPE html>   	- Declear the documention type html-5
+	<html lang="en">   	- html star tag
+	<head>		  	- head tag start
+	<title>First-webpage</title>  -title tag for the web title
+	<meat carset="UTF-8">	-it's defined the UTF-8 (8-bit Unicode Transformation Format) is a 						variable width character encoding capable of encoding all 						1,112,064 valid character code points in Unicode using one to 						four one-byte (8-bit) code units. The encoding is 							defined by the Unicode Standard, and was originally 							designed by Ken Thompson and Rob Pike
+	</head>				-head tag end
+	<body>				- body tag start.It's containt title,img,paragraph,link etc.
+	</body>				- body tag end
+	</html>				-html tag end
+	
+HTML Version: Version Control System & History of html
+
+1989	Tim Berners-Lee invented www
+1991	Tim Berners-Lee invented HTML
+1993	Dave Raggett drafted HTML+
+1995	HTML Working Group defined HTML 2.0
+1997	W3C Recommendation: HTML 3.2
+1999	W3C Recommendation: HTML 4.01
+2000	W3C Recommendation: XHTML 1.0
+2008	WHATWG HTML5 First Public Draft
+2012	WHATWG HTML5 Living Standard
+2014	W3C Recommendation: HTML5
+2016	W3C Candidate Recommendation: HTML 5.1
+2017	W3C Recommendation: HTML5.1 2nd Edition
+2017	W3C Recommendation: HTML5.2
+
+Content: Title, image, text, link
+
+tag:
+
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6> - This is heading tag. h1 is large heading tag and h6 is small heading tag.
+
+<p> - This is paragraph tag.
+
+<img src="image.jpg" alt="image">
+
+attribute is additional information. An attribute is used to define the characteristics of an HTML element and is placed inside the element's opening tag. All attributes are made up of two parts − a name and a value
+
+element: An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag.
+
+
